@@ -5,7 +5,7 @@ import GenderForm from './Componets/GenderForm'
 import Notification from './Componets/Notification'
 import ProductForm from './Componets/ProductForm'
 import StudyMessage from './Componets/StudyMessage'
-import LoginForm from './LoginForm'
+import LoginForm from './Componets/LoginForm'
 import RegisterForm from './RegisterForm'
 
 function App() {
